@@ -6,7 +6,7 @@
     TETRIS
     BY: TEAM ITACHI (Rishi Barad, Nilay Patel, Thejas Raghava, Maureen Wu)
 
-    USING ARDUINO MEGA fOR THE ADDITIONAL PROGRAM STORAGE SPACE!!
+    USING ARDUINO MEGA!!
     4 button setup.
 */
 
