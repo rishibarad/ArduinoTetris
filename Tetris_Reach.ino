@@ -4,7 +4,6 @@
 
 /*
     TETRIS
-    BY: TEAM ITACHI (Rishi Barad, Nilay Patel, Thejas Raghava, Maureen Wu)
 
     USING ARDUINO MEGA!!
     4 button setup.
