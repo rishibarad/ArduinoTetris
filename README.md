@@ -1,5 +1,7 @@
 # ARDUINO TETRIS
 
+Implemented a Tetris clone using C++ on an Arduino microcontroller
+
 Run on an Arduino Mega.
 
 Uses a 4 button set-up:
