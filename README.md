@@ -1,4 +1,4 @@
-# ARDUINO TETRIS
+# Tetrino
 
 Implemented a Tetris clone using C++ on an Arduino microcontroller
 
